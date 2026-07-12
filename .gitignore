@@ -483,5 +483,5 @@ $RECYCLE.BIN/
 
 # new add from developer
 DatingApp.API/appsettings.json
-DatingApp.API/datingapp.db*
+DatingApp.API/dating.db*
 
